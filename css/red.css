@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 body{
     background: url("../img/rojo.jpg");
     background-attachment: fixed;
@@ -14,9 +14,9 @@ body{
 .button-more{
 
     background: #ca3413;
- 
 
-=======
+}
+
 body{
     background: url("../img/rojo.jpg");
     background-attachment: fixed;
@@ -32,7 +32,5 @@ body{
 .button-more{
 
     background: #ca3413;
- 
 
->>>>>>> 45de6b0 (nuevo blog)
 }
