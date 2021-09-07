@@ -1,0 +1,36 @@
+<<<<<<< HEAD
+body{
+    background: url("../img/cielo.jpg");
+    background-attachment: fixed;
+}
+#logo{
+    
+    background: #1f87c4;
+    
+}
+#menu ul li :hover{
+    background: #1f87c4;
+}
+.button-more{
+
+    background: #1f87c4 
+
+=======
+body{
+    background: url("../img/cielo.jpg");
+    background-attachment: fixed;
+}
+#logo{
+    
+    background: #1f87c4;
+    
+}
+#menu ul li :hover{
+    background: #1f87c4;
+}
+.button-more{
+
+    background: #1f87c4 
+
+>>>>>>> 45de6b0 (nuevo blog)
+}
